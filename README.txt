@@ -1,0 +1,1 @@
+tojest pierwsza linijka 
